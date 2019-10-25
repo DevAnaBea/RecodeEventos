@@ -1,2 +1,0 @@
-# RecodeEventos
-Created with CodeSandbox
